@@ -1,0 +1,6 @@
+[submodule "med-manager-frontend"]
+	path = med-manager-frontend
+	url = git@github.com:naser-github/med-manager-frontend.git
+[submodule "med-manager-backend"]
+	path = med-manager-backend
+	url = git@github.com:naser-github/med-manager-backend.git
